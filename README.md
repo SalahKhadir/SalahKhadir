@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlYnFwendsM2o1NzFmaHMzbWQzZjB1ejh1aWtmamZheHl2dnJpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z2Pc3a0QLItnM9jHNt/giphy.gif" width="600" alt="Salah Khadir"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlYnFwendsM2o1NzFmaHMzbWQzZjB1ejh1aWtmamZheHl2dnJpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z2Pc3a0QLItnM9jHNt/giphy.gif" width="300" alt="Salah Khadir"/>
 </div>
 
 <br/>
@@ -103,12 +103,3 @@ Computer and Network Engineering Student at EMSI Rabat
 <a href="https://github.com/SalahKhadir"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahKhadir&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
 
 ---
-
-<div align="center">
-
-### 💬 Let's Connect! 
-*Feel free to reach out for collaborations or just a friendly chat! *
-
-[![](https://visitcount.itsvg.in/api?id=SalahKhadir&icon=0&color=0)](https://visitcount.itsvg.in)
-
-</div>
