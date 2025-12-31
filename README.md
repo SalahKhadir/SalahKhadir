@@ -92,19 +92,7 @@ Computer and Network Engineering Student at EMSI Rabat
 </a>
 </p>
 
-### Badges
-
-**My GitHub Stats**
-
-<a href="http://www.github.com/SalahKhadir"><img src="https://github-readme-stats.vercel.app/api? username=SalahKhadir&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="SalahKhadir's GitHub stats" /></a>
-
-<a href="http://www.github.com/SalahKhadir"><img src="https://nirzak-streak-stats.vercel.app/? user=SalahKhadir&theme=dark&hide_border=true&stroke=ffffff&background=000000&ring=84cc16&fire=84cc16&currStreakLabel=ffffff" /></a>
-
-<a href="https://github.com/SalahKhadir"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalahKhadir&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
-
----
-
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SalahKhadir&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=SalahKhadir&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SalahKhadir&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
