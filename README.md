@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlYnFwendsM2o1NzFmaHMzbWQzZjB1ejh1aWtmamZheHl2dnJpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z2Pc3a0QLItnM9jHNt/giphy.gif" width="300" alt="Salah Khadir"/>
+  <img src="[https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlYnFwendsM2o1NzFmaHMzbWQzZjB1ejh1aWtmamZheHl2dnJpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z2Pc3a0QLItnM9jHNt/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnM1bmdwd2F2Zmg5empiejRwc3UwcmZwdDBxcHUzZnpzZnE3d25xZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mDcWIH2PaMmG6TJcEo/giphy.gif)" width="300" alt="Salah Khadir"/>
   
   <h1>👋 Welcome to my GitHub Profile!</h1>
   
