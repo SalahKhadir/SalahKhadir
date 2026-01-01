@@ -5,7 +5,8 @@
   
   <p>
     <a href="https://github.com/SalahKhadir">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+%26+Network+Engineering+Student;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+%26+Network+Engineering+Student;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" 
+           alt="Typing SVG" />
     </a>
   </p>
   
@@ -14,7 +15,7 @@
     <a href="https://www.linkedin.com/in/salah-khadir" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
     </a>
-    <a href="https://www.github.com/SalahKhadir" target="_blank">
+    <a href="https://github.com/SalahKhadir" target="_blank">
       <img src="https://img.shields.io/github/followers/SalahKhadir?label=Follow&style=social" alt="GitHub Followers" />
     </a>
   </p>
