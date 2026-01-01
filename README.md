@@ -1,5 +1,23 @@
 <div align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzBlYnFwendsM2o1NzFmaHMzbWQzZjB1ejh1aWtmamZheHl2dnJpNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z2Pc3a0QLItnM9jHNt/giphy.gif" width="300" alt="Salah Khadir"/>
+  
+  <h1>👋 Welcome to my GitHub Profile!</h1>
+  
+  <p>
+    <a href="https://github.com/SalahKhadir">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+%26+Network+Engineering+Student;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+    </a>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=SalahKhadir&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <a href="https://www.linkedin.com/in/salah-khadir" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn" />
+    </a>
+    <a href="https://www.github.com/SalahKhadir" target="_blank">
+      <img src="https://img.shields.io/github/followers/SalahKhadir?label=Follow&style=social" alt="GitHub Followers" />
+    </a>
+  </p>
 </div>
 
 <br/>
