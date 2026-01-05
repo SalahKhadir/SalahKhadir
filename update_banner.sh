@@ -92,9 +92,9 @@ echo "Updating README.md..."
 cp README.md README.md.backup
 
 # Replace the image source
-if grep -q 'src="https://media1.giphy.com' README.md; then
-    # Replace Giphy URL with local path
-    sed -i 's|src="https://media1.giphy.com/media/[^"]*"|src="./assets/banner.gif"|' README.md
+if grep -q 'src="https://[^"]*giphy\.com[^"]*"' README.md; then
+    # Replace any Giphy URL with local path
+    sed -i 's|src="https://[^"]*giphy\.com[^"]*"|src="./assets/banner.gif"|' README.md
     echo -e "${GREEN}✓ README.md updated (replaced Giphy URL)${NC}"
 elif grep -q 'src="./assets/banner.gif"' README.md; then
     echo -e "${YELLOW}README.md already points to ./assets/banner.gif${NC}"
@@ -120,7 +120,11 @@ echo ""
 echo "  3. Push to GitHub:"
 echo "     git push"
 echo ""
-echo "  4. Visit your profile to see the new banner:"
-echo "     https://github.com/SalahKhadir"
-echo ""
+# Try to get GitHub username from git config or repository URL
+GITHUB_USER=$(git config --get remote.origin.url 2>/dev/null | sed -n 's#.*/\([^/]*\)/[^/]*$#\1#p')
+if [ -n "$GITHUB_USER" ]; then
+    echo "  4. Visit your profile to see the new banner:"
+    echo "     https://github.com/$GITHUB_USER"
+    echo ""
+fi
 echo "(A backup of your README.md was saved as README.md.backup)"
