@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDBrbTFuemQ1MDA2OXg3bTVjdTg0amtobmdnMXp0N2h1emF1bmgwbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mDcWIH2PaMmG6TJcEo/giphy.gif" width="1500" alt="Salah Khadir"/>
+  <img src="./assets/banner.gif" width="1500" alt="Salah Khadir"/>
   
   <h1>👋 Welcome to my GitHub Profile!</h1>
   
