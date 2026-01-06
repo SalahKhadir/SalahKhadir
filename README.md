@@ -5,7 +5,7 @@
   
   <p>
     <a href="https://github.com/SalahKhadir">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Computer+%26+Network+Engineering+Student;Software+Engineer+%7C+Full+Stack+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies" 
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Cloud%2C+DevOps+%26+Microservices;Digital+Development+%26+Information+Systems;Building+Scalable+Applications" 
            alt="Typing SVG" />
     </a>
   </p>
@@ -23,20 +23,23 @@
 
 <br/>
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Salah Khadir
+Hi ! My name is Salah Khadir
 =====================================================================================================================================
 
-Computer and Network Engineering Student at EMSI Rabat
-------------------------------------------------------
+Full-Stack Developer | Cloud, DevOps & Microservices | Engineering Student - EMSI
+-----------------------------------------------------------------------------------
 
-* 🎓 Computer and Network Engineering Student at **EMSI Rabat**
-* 💻 Passionate about **Software Engineering** and **Web Development**
-* 🚀 Building scalable applications with modern technologies
-* 🌱 Constantly learning and exploring new tech stacks
+* 🎓 Computer and Network Engineering Student at **EMSI Rabat** - Specializing in **Digital Development & Information Systems**
+* 💻 Full-Stack Developer with expertise in **DevOps, Cloud Architecture & Microservices**
+* 🚀 Building scalable applications using modern frameworks (ASP.NET Core, FastAPI, React) and distributed systems
+* ☁️ Focused on **Cloud Computing, Virtualization & DevOps practices**
+* � Database optimization & tuning (SQL, NoSQL, Oracle, MS SQL Server)
+* 🧠 Basic knowledge in **AI/ML & Data Science**
+* 🛠️ Agile methodologies, Software Quality & Project Management (PMP, ITIL)
 * 🌍 I'm based in **Rabat**
 * 🖥️ See my portfolio at [My Portfolio](https://whoamiai.streamlit.app)
-* ✉️ You can contact me at [salaho. khadir@gmail.com](mailto:salaho.khadir@gmail.com)
-* 👥 I'm looking to collaborate on interesting projects
+* ✉️ You can contact me at [salaho.khadir@gmail.com](mailto:salaho.khadir@gmail.com)
+* 👥 I'm looking to collaborate on innovative projects in **Full-Stack Development, DevOps & Cloud Solutions**
 
 ### Skills
 
