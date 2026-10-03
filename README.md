@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Salah Khadir Banner"/>
   
   <h1>👋 Welcome to my GitHub Profile!</h1>
   
